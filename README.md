@@ -9,11 +9,12 @@ Vue app to display data in table with the following functionalities
 6.thumbnail should appear as an image
 7. Data url:
 https://jsonplaceholder.typicode.com/albums
+
 https://jsonplaceholder.typicode.com/photos
 
 # Build Setup
-# install dependencies
+# Install dependencies
 npm install
 
-# build for production with minification
+# Build for production with minification
 npm run dev
