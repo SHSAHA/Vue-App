@@ -8,8 +8,7 @@ Vue app to display data in table with the following functionalities
 5. Custom filters - album.title
 6.thumbnail should appear as an image
 7. Data url:
-https://jsonplaceholder.typicode.com/albums
-
+https://jsonplaceholder.typicode.com/albums ,
 https://jsonplaceholder.typicode.com/photos
 
 # Build Setup
